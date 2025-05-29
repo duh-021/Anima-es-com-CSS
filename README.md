@@ -23,7 +23,7 @@
 
 Anima-es-com-CSS transforma a forma como os usuários interagem com planos de internet, oferecendo uma interface web deslumbrante que combina estética moderna com funcionalidade.
 
-**Por que Anima-es-com-CSS?**
+**Por que Animações com CSS?**
 
 Este projeto tem como objetivo aumentar o engajamento dos usuários e simplificar a navegação em aplicações web. Seus principais recursos incluem:
 
