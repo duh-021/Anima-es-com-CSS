@@ -1,4 +1,4 @@
-# ANIMA-ES-COM-CSS
+# ANIMAÇÕES COM CSS
 
 *Eleve suas escolhas com experiências visuais impressionantes*
 
