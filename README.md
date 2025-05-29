@@ -27,11 +27,11 @@ Anima-es-com-CSS transforma a forma como os usuários interagem com planos de in
 
 Este projeto tem como objetivo aumentar o engajamento dos usuários e simplificar a navegação em aplicações web. Seus principais recursos incluem:
 
-- 🌟 **Interface Web Atraente:** Cativa os usuários com um layout visualmente agradável que melhora a interação.
-- 🚀 **Efeito Scroll Cover:** Adiciona um toque moderno que mantém os usuários engajados enquanto exploram.
-- 🔗 **Botões de Navegação Interativos:** Simplifica a experiência do usuário, facilitando a exploração dos planos.
-- ✨ **Fundo Estrelado Dinâmico:** Cria uma atmosfera imersiva que conecta os usuários ao mundo digital.
-- 📊 **Ênfase nas Ofertas de Serviço:** Exibe claramente os diferentes planos, facilitando a comparação.
+-  **Interface Web Atraente:** Cativa os usuários com um layout visualmente agradável que melhora a interação.
+-  **Efeito Scroll Cover:** Adiciona um toque moderno que mantém os usuários engajados enquanto exploram.
+-  **Botões de Navegação Interativos:** Simplifica a experiência do usuário, facilitando a exploração dos planos.
+-  **Fundo Estrelado Dinâmico:** Cria uma atmosfera imersiva que conecta os usuários ao mundo digital.
+-  **Ênfase nas Ofertas de Serviço:** Exibe claramente os diferentes planos, facilitando a comparação.
 
 ---
 
